@@ -4,7 +4,7 @@
 -e .
 
 # Development dependencies can go here.
-flake8==3.4.1
+flake8
 flake8-quotes
 hacking
 nose
